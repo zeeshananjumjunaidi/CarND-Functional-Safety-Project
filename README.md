@@ -99,8 +99,9 @@ Refer to the classroom rubric for exact requirements.
 
 ## Author
 
-**Zeeshan Anjum Junaidi**  
+**Zeeshan Anjum Junaidi**<br/>
 Senior Software Engineer
+
 ---
 
 ## License & Acknowledgments
