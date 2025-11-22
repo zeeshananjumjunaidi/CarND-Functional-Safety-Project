@@ -1,49 +1,111 @@
 # Functional Safety of a Lane Assistance System
+**Udacity Self-Driving Car Nanodegree – Functional Safety Project**
 
+## Overview
 
+This repository contains the complete functional safety documentation for an **automotive lane-assistance system**, developed as part of Udacity’s Self-Driving Car Nanodegree (Functional Safety module).
 
-Your job will be to create functional safety documents based on what you learned in the lessons. These documents are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
+The objective of this project is to demonstrate the ability to analyze safety risks in an automotive system and produce standardized safety documents similar to those created by a **Functional Safety Manager (FSM)** in industry (compliant with ISO 26262 practices).
 
+You will find structured documentation including:
+- Safety planning
+- Hazard analysis and risk assessment
+- Functional safety concept
+- Technical safety concept
+- Software requirements and architecture
 
-### Description of Repo Files
+---
 
-This repo contains all the files to complete the car nanodegree functional safety project. We are also providing the same files in a google drive folder. Here is the link to the Google Drive folder: [Link to templates](https://drive.google.com/open?id=0ByaZfGJuntGTQWRpNUpuNVVGNlU)
+## Repository Structure
+```
+📁 Architecture_Diagrams/
+└─ System and block diagrams used in the documentation
 
+📁 Functional-Safety-Documents/
+└─ Completed versions of each deliverable
 
-The repo contains a PDF file called **Project_Instructions.pdf**. This document gives information about how to approach the project and what is expected. You'll also see a project template folder. There are five files in the folder. You should use these templates to develop your solution:
+📁 Template_Files/
+├─ 01_SafetyPlan_LaneAssistance.doc
+├─ 02_HazardAnalysisAndRiskAssessment.xlsx
+├─ 03_FunctionalSafetyConcept_LaneAssistance.doc
+├─ 04_TechnicalSafetyConcept_LaneAssistance.doc
+└─ 05_SoftwareRequirementsAndArchitecture_LaneAssistance.doc
 
+📄 Project_Instructions.pdf
+📄 README.md
+```
 
-* 01_SafetyPlan_LaneAssistance.doc
+---
 
-* 02_HazardAnalysisAndRiskAssessment.xlsx
+## Deliverables
 
-* 03_FunctionalSafetyConcept_LaneAssistance.doc
+You are required to complete the following five documents:
 
-* 04_TechnicalSafetyConcept_LaneAssistance.doc
+| # | Document Name |
+|--|--------------|
+| 01 | Safety Plan |
+| 02 | Hazard Analysis & Risk Assessment (HARA) |
+| 03 | Functional Safety Concept |
+| 04 | Technical Safety Concept |
+| 05 | Software Requirements & Architecture |
 
-* 05_SoftwareRequirementsAndArchitecture_LaneAssistance.doc
+These are provided as templates in the `Template_Files` directory. Completed versions can be found in `Functional-Safety-Documents`.
 
-You will need to fill out all five of these documents in order to meet specifications.  
+---
 
-The repo also contains an Architecture_Diagrams folder containing visuals that you will need to complete the reports. These visuals are in no particular order, and you will decide in which document or documents they belong.
+## Tools Required
 
+To edit and export the documents, you can use:
 
-### Project Rubric
-You can find the project rubric in the classroom. 
+- Microsoft Word / Excel
+- Google Docs / Google Sheets
+- LibreOffice Writer / Calc
 
+✅ **All final submissions must be exported to PDF format** for consistent review.
 
-### Software
+---
 
-To complete the project, you will need a word processor and spreadsheet software.
+## How To Use This Repository
 
-If you do not have word processing software on your local computer, we suggest using [Google Drive](https://www.office.com/) or [Microsoft Office in the Cloud](https://www.office.com/). Both of these services are free. 
+1. Start with the templates in `/Template_Files`
+2. Use the diagrams from `/Architecture_Diagrams` where needed
+3. Save completed files inside `/Functional-Safety-Documents`
+4. Export final files as **PDF**
+5. Submit according to Udacity guidelines
 
-There are also open source word processors such as [LibreOffice](https://www.libreoffice.org/]) and [OpenOffice](https://www.openoffice.org).
+---
 
+## Example Use Cases
 
-### Submitting
-For your project submission, please export your work into pdf files. This will ensure that reviewers can review your work no matter what word processing and spreadsheet software you used.
+- Academic demonstration of **ISO 26262 functional safety concepts**
+- Reference for **ADAS / Lane Assist system design**
+- Example for implementing **FSM-style documentation**
+- Template base for real-world automotive safety studies
 
-## How to write a README
-A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
+---
 
+## Evaluation
+
+The project is evaluated based on Udacity’s rubric:
+- Completeness
+- Accuracy
+- Industry alignment
+- Technical clarity
+- Documentation quality
+
+Refer to the classroom rubric for exact requirements.
+
+---
+
+## Author
+
+**Zeeshan Anjum Junaidi**  
+Senior Software Engineer
+---
+
+## License & Acknowledgments
+
+This project is part of Udacity’s **Self-Driving Car Engineer Nanodegree program**.  
+Templates, structure and problem statement are provided by Udacity.
+
+This repository is intended for **educational and research use only**.
